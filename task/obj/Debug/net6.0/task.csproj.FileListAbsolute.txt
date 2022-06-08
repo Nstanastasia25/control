@@ -1,0 +1,15 @@
+D:\Настя\программ\конспекты\контрольная\task\bin\Debug\net6.0\task.exe
+D:\Настя\программ\конспекты\контрольная\task\bin\Debug\net6.0\task.deps.json
+D:\Настя\программ\конспекты\контрольная\task\bin\Debug\net6.0\task.runtimeconfig.json
+D:\Настя\программ\конспекты\контрольная\task\bin\Debug\net6.0\task.dll
+D:\Настя\программ\конспекты\контрольная\task\bin\Debug\net6.0\task.pdb
+D:\Настя\программ\конспекты\контрольная\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+D:\Настя\программ\конспекты\контрольная\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Настя\программ\конспекты\контрольная\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+D:\Настя\программ\конспекты\контрольная\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+D:\Настя\программ\конспекты\контрольная\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+D:\Настя\программ\конспекты\контрольная\task\obj\Debug\net6.0\task.dll
+D:\Настя\программ\конспекты\контрольная\task\obj\Debug\net6.0\refint\task.dll
+D:\Настя\программ\конспекты\контрольная\task\obj\Debug\net6.0\task.pdb
+D:\Настя\программ\конспекты\контрольная\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+D:\Настя\программ\конспекты\контрольная\task\obj\Debug\net6.0\ref\task.dll
