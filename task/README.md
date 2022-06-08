@@ -1,0 +1,1 @@
+![Задача 1](Screenshot_9.png)
